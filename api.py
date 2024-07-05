@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'mGxAZ0XpuFIKWpSW73hf61aSzWNVCPpt'
+api_key = 'API-KEY-HERE'
 
 base_url = 'https://app.ticketmaster.com/discovery/v2/'
 
