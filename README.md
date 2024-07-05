@@ -3,5 +3,6 @@ Uses TicketMaster's Discovery API V2 to return a list of events from user specif
 
 To run, just run main.py and install any needed repositories.
 
-https://github.com/MichaelBonsall/TicketMaster-Event-Finder/assets/104641118/1896086b-baeb-4522-a55a-1500cdd88e1b
+
+https://github.com/MichaelBonsall/TicketMaster-Event-Finder/assets/104641118/e799384f-8508-425d-b6a3-7f6cd371f852
 
